@@ -1,14 +1,7 @@
 
-import { DataStore } from '@aws-amplify/datastore';
-import { Blog } from './models';
+
 
 import React, { Component } from 'react'
-import Amplify from 'aws-amplify'
-import awsconfig from './aws-exports'
-
-Amplify.configure(awsconfig)
-
-
 class Comp1 extends Component {
     state = {
         value: true,
