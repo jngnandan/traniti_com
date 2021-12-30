@@ -53,6 +53,17 @@ class Comp1 extends Component {
                     </div>
                 </div>
 
+                <div className='flex flex-row justify-center items-center py-8'>
+                    <div className='w-80'>
+                        <h1 className='text-2xl text-white'> <span className='font-light'>A Better </span>
+                            <span className='font-bold'>Experience Cooler</span>
+                        </h1>
+                        <p className='text-white font-serif pt-2'>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis vitae atque accusantium, eaque impedit et veritatis possimus maiores non culpa quam, quod tempora nemo doloremque illo nobis, quasi explicabo voluptates?
+                        </p>
+                    </div>
+                </div>
+
                 <div className='flex flex-wrap justify-center items-center'>
                     <div>
 
