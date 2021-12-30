@@ -60,6 +60,8 @@ class Comp1 extends Component {
                         </h1>
                         <p className='text-white font-serif pt-2'>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis vitae atque accusantium, eaque impedit et veritatis possimus maiores non culpa quam, quod tempora nemo doloremque illo nobis, quasi explicabo voluptates?
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis vitae atque accusantium, eaque impedit et veritatis possimus maiores non culpa quam, quod tempora nemo doloremque illo nobis, quasi explicabo voluptates?
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis vitae atque accusantium, eaque impedit et veritatis possimus maiores non culpa quam, quod tempora nemo doloremque illo nobis, quasi explicabo voluptates?
                         </p>
                     </div>
                 </div>
