@@ -9,7 +9,7 @@ class Comp1 extends Component {
     render() {
         const { value } = this.state
         return (
-            <div>Û
+            <div>
                 {/* Navigation */}
                 <nav className="flex items-center justify-between flex-wrap bg-black p-6">
                     <div className="flex items-center flex-shrink-0 text-white mr-6">
