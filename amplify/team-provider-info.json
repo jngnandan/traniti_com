@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-traniti-staging-25204-authRole",
+      "UnauthRoleArn": "arn:aws:iam::194342888947:role/amplify-traniti-staging-25204-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::194342888947:role/amplify-traniti-staging-25204-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-traniti-staging-25204-deployment",
+      "UnauthRoleName": "amplify-traniti-staging-25204-unauthRole",
+      "StackName": "amplify-traniti-staging-25204",
+      "StackId": "arn:aws:cloudformation:eu-central-1:194342888947:stack/amplify-traniti-staging-25204/789818f0-691b-11ec-9b9a-0abe7e7397a6",
+      "AmplifyAppId": "d2q19k12fwjwbn"
+    }
+  }
+}
